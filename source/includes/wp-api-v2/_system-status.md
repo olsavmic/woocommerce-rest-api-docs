@@ -20,7 +20,7 @@ The system status API allows you to view all system status items.
 | --------------------------- | ------- | -------------------------------------------------------------------------- |
 | `home_url`                  | string  | Home URL. <i class="label label-info">read-only</i>                        |
 | `site_url`                  | string  | Site URL. <i class="label label-info">read-only</i>                        |
-| `wc_version`                | string  | WooCommerce version. <i class="label label-info">read-only</i>             |
+| `version`                   | string  | WooCommerce version. <i class="label label-info">read-only</i>             |
 | `log_directory`             | string  | Log directory. <i class="label label-info">read-only</i>                   |
 | `log_directory_writable`    | boolean | Is log directory writable? <i class="label label-info">read-only</i>       |
 | `wp_version`                | string  | WordPress version. <i class="label label-info">read-only</i>               |
